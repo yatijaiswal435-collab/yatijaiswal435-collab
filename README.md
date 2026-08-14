@@ -106,7 +106,7 @@ Analyzed retail sales data to understand sales, profit, product, category, regio
 
 💼 [LinkedIn](https://www.linkedin.com/in/yati-jaiswal)
 
-🌐 [Portfolio](https://yatijaiswal435-collab.github.io/Yati_Jaiswal_Portfolio/)## Hi there 👋
+🌐 [Portfolio](https://yatijaiswal435-collab.github.io/Yati_Jaiswal_Portfolio/)
 
 <!--
 **yatijaiswal435-collab/yatijaiswal435-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
